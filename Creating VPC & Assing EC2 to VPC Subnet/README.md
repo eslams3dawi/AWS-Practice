@@ -1,8 +1,8 @@
 # AWS EC2 Web Server in a Custom VPC
 
-**Architecture diagram:** [Web server EC2 Instance attached to a VPC subnet .drawio.pdf](https://github.com/eslams3dawi/AWS-Practice/blob/master/Creating%20VPC%20%26%20Assing%20EC2%20to%20VPC%20Subnet/Web%20server%20EC2%20Instance%20attached%20to%20a%20VPC%20subnet%20.drawio.pdf)
- s
-![Web server EC2 Instance attached to a VPC subnet](https://github.com/eslams3dawi/AWS-Practice/blob/master/Creating%20VPC%20%26%20Assing%20EC2%20to%20VPC%20Subnet/screenshot.png?raw=true)
+**Architecture diagram:** [Web server EC2 Instance attached to a VPC subnet .drawio.pdf](Web%20server%20EC2%20Instance%20attached%20to%20a%20VPC%20subnet%20.drawio.pdf)
+
+![Web server EC2 Instance attached to a VPC subnet](Screenshot.png)
 
 A hands-on project that deploys a web server on **Amazon EC2** inside a custom **VPC** with a public subnet, an Internet Gateway, and a locked-down Security Group. It covers the core AWS networking pieces needed to make an instance reachable from the internet.
 
